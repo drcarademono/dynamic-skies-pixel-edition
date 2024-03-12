@@ -1,6 +1,6 @@
 {
     "ModTitle": "Dynamic Skies - Pixel Edition",
-    "ModVersion": "2.1",
+    "ModVersion": "2.1.1",
     "ModAuthor": "BadLuckBurt and carademono",
     "ContactInfo": "Lysandus' Tomb Discord server",
     "DFUnity_Version": "1.0.0",
@@ -31,7 +31,8 @@
         "Assets/Game/Mods/dynamic-skies/Textures/PixelMars.png",
         "Assets/Game/Mods/dynamic-skies/Textures/PixelEnceladus.png",
         "Assets/Game/Mods/dynamic-skies/Textures/PixelStars.png",
-        "Assets/Game/Mods/dynamic-skies/Textures/PixelStarsTwinkleMask.png"
+        "Assets/Game/Mods/dynamic-skies/Textures/PixelStarsTwinkleMask.png",
+        "Assets/Game/Mods/dynamic-skies/LightCurveSettings/LightCurve.json"
     ],
     "Dependencies": [
         {
